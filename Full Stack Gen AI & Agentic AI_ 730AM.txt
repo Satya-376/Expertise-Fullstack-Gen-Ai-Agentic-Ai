@@ -1,0 +1,768 @@
+****************
+FULL STACK GENERATIVE AI & AGENTIC AI @ 26th June 
+Webinar Link:  https://zoom.us/j/82785694870
+****************
+
+if you are non technical learner , non technical working professional you can attend the  offline mode 
+if working profession online mode 
+7:30am ist -- morning is very good to understand 
+
+1- name of the course 
+		full stack gen ai & agentic ai with python 
+2- my introduceion 
+		k prakash senapati
+		18+ 
+		bcbs client 
+		15 + 
+       you can catch me on linkedin 
+
+3-	 who can join this advanced programme -- we discussed 
+4- without knowing python & ai .. very hard to deep understna about gen ai & agentic ai 
+		api key -- chatbot, rag 
+5- pre requisites
+
+==== 29th 
+I create some ppt for fresher, exper, manager, flm 
+if you have any quation i will speak with after the class 
+demo session i will everything 
+
+demo -- 15yr training experience ( iit, corport, )
+18+ yr working -- | usa (bcbs client) -- | 	morning -- night 
+
+demo session -- i will explain | new day 
+
+I would humble request you 50 min .. then i will talk you query 
+
+ fs java developer 
+ fs .net developer 
+ full stack genai & agentic ai developer 
+ full stack datasceince develope
+ zerodah foundar nikhil vs ceo -- coding will dead 
+ 
+===== 30th
+
+full stack -->
+	backend 
+	frontend 
+	deployment 
+	
+data -->
+	structure data == supervised learning = labelde data
+			handle == strucutre db = sql db 
+	unstructure data == unsupervised learning == unlabled data 
+			unstructure == nosql db 
+	Reinforcment learning == model trained from environment 
+	
+	
+LONG SHORT TERM MEMORY 
+
+self attention -- one word many meaning 
+llm model hallucination -- llm model confused 
+context engineering 
+gen ai, agentic ai, python, cloude , deployment 
+
+=== 30th
+------ 
+Agenda for today session -->
+------
+
+1- Github Account Creation 
+2- Software Installation
+3- Google classroom enrollment
+4- How to download classnotes from the google classroom 
+
+
+github -- you are create folder in online 
+	no one delate foler until 
+	folder -- repository = repo 
+	every daily task, practicle all the class explanation you can commit in the repo 
+	github -- cicd pipeline 
+				-- docker 
+				-- cloude
+				-- if anybody apply jobs in outside most they will look at your git repo 
+				-- welath is knowledge 
+				
+you have github account & maintain github if not then please do so 
+
+1- google -- github.com -- signup -- login using your exising gmail
+2- setup is ready 
+3- profile -- fill every section given or else leave it 
+4- Company project, resume project -- keep those project in private
+		rest of them , doc, public 
+
+
+1- we successfully create the github repo becuase daily assign , you can commit you folder
+
+2- Software installation 
+prompt -- can you provide cbse 7th grade math page#35 -- chatgpt model fails to response 
+	
+
+3- google colab create by google 
+
+	exten pdf -- .pdf 
+	exten word - .doc 
+	extn of html.  .html
+	extn of xml - xml 
+	image -- .jpg | .jpeg 
+	audio -- .mp3
+	video -- .mp4
+	extesion of pyython .ipynb & .py 
+	
+.ipynb (interative python notebook) 
+.py (python file) 
+
+==== 2nd 
+
+We just done some introduc & demo session since 3 days 
+for the learner who joined 1st time, 2 time, i will take the back up session last 10 min 
+
+as per research python is no.1 programing language in the world 
+
+ agenda for today session -->
+ -
+ 1- python introduction 
+ 2- software installation vs code 
+			i will assing 15min video to download and install anaconda software 
+3- how to download regualar notes from google classroom
+4- question and answer 
+5- back up class 
+			
+=== 
+ 
+how  many of them are fresher ? -- F 
+non tech expere -- NTE 
+tech experence  - TE 
+exper but no code knowledge - ENCK 
+python expert - PE 
+
+
+ software devleper 
+ 
+ AI is not automate job 
+ learner who learning AI he will automate the job 
+ 
+ primitive -- build-in or inbuild 
+		user decalre only 1 value 
+
+non primitive -->
+	build in == list, tupel, set, dict 
+	user define == stack, queue, tree 
+		
+
+all learning everyday you can integrate to your job 
+
+1-- reviese topic 
+2-- introduce to python 
+3- software installation 
+
+top software in the world is vs code 
+we will install all agentic ai ide application on top of vs code  
+
+
+python code is very very easy compare to java, c, c++ 
+becuase we have library 
+		langchain 
+		langgarph 
+		langsmith 
+=== chatgpt, copilot 
+
+if your os -- mac , window 
+
+who ever expert in python, ai, data science, 
+
+90% of learne new to python, ml, ai, 
+python , frame, ai, gen ai, agenti 
+
+google -- vscode for windows or mac -- downlaod & install 
+
+generative ai -- ai generate code, text, 
+							user copy the code past in vs code then applicate 
+agentic ai -- agent generate code, wirte code, generate the application 
+
+vs code use by everyone means every technoloy 
+	c 
+	c++
+	java
+	datascientist
+	python 
+	gen ai devel 
+-----
+Extension -->
+------
+jupyter -- .ipynb 
+office viewer -- .doc, .xlcs, .pdf, 
+pylance -
+python 
+python debugger 
+
+3- system cmd -- check the path location (c:\user\admin ) 
+	vs code -- terminal -- path (c:\user\admin) 
+	
+after both terminal match manuall go to the folder location create a folder 
+		I create folder undert -- c:\user\admin -- create a folder 
+		
+		
+4- 		kindly spend some time to install and testing all the code and get confident 
+
+	vs code -->	
+				.ipynb 
+				.py 
+				
+	anaconda -
+				jupyternotebook 
+				
+		
+anaconda company who realeas python for datasceince, ai engineer, python devel, genai, agent ai 
+	jupyter
+	spyder 
+	jupyter power cell 
+	
+spyder 
+	.py 
+	
+vs code 
+		.ipynb
+		.py
+		
+google colab
+	.ipynb 
+		
+If you a got erron not angry calm down fix the error 
+
+3.10 would better 
+3.13, 3.14 -- 
+
+==== 3rd
+
+winrar or winzip file 
+install the winrar file 
+try today -- mentor link 
+
+=== 
+1- google colab 
+		without installaiotn any software we can work in google colab 
+			cpu & gpu from colab 
+	
+2- vs code 
+		Ai, gen ai, agentic ai 
+		
+3- anaconda python 
+		Pyther learning 
+		ml model building
+		ai project 
+		
+
+		
+=== when ever any notes, documenst, link provide me or admin	
+please opne it once read it
+
+=== Agenda	
+- generative ai 
+- python introduction 
+- q & a 
+- backup class 
+
+
+MCP ( model context protocol) 
+
+why it is very powerfull 
+
+claude.com -- using website 
+					using desktop 
+
+claude is 1st company claude desktop 
+mcp ( model context protocol)
+	mcp client -- mcp server 
+	
+claude desktop --- system file syste 
+claude desktop -- multiple app ( you can access the file) 
+
+what is generative ai ?
+
+	llm model  ( large language model) 
+			it is alwasy generate  text not generate any image , video, audio 
+	anthorpic -- claude ( cannot generate image so far) 
+				claude has not launch image based model yet 
+				text based model 
+	openaai -- chatgpt ( llm & multimodel)
+			gpt can generate text & gpt can generate images 
+			
+text baed model measn -- user type text model generate text 
+
+	
+	multi model 
+
+can i stop explain i can answer 
+
+ml -- use need to write aloging, train labeld data 
+llm -- user no need to train the data, train directly from internet 
+
+
+ text based model -- user enter text chatgpt, gemini -- generate text only 
+ multimodel -- user enter text model generate - image, video, audio 
+		multimodel -- state of the art model (SOTA MODEL)  
+		cloud we called multimodel as cognitive ai (COGNITIVE AI) 
+		
+llm model 
+vs
+state of the art model (mutlimodel) 
+
+what is mean by context ?
+	math book -- 300 page 
+		context window of math page -- 300 only
+	can you opne 301 page 
+		
+how this is impement in production 
+
+my name is nit -- token 4 token 
+every llm chare per token 
+token is charge both input & output 
+
+==
+1- what is gen ai 
+2- how many type of gen ai model 
+3- what is mcp 
+4- how to generare code by claude code 
+5- llm model vs multimodel 
+
+
+
+sunday i ollama bootcamp 
+how to build llm model lcoally 
+
+Saturday -- i wont explain any topic 
+		Please write down alll your question 
+		I will unmute every -- i will answer 
+
+if you dont have any quesiton you are fine with me - dont join 
+if you have any question then please ask freely no problem 
+		
+0-  if you hnave no you are best person to learn 
+	python is easy compare to other programme 
+	
+1- python is object oriented programming langguage 
+		oops (object oriented) 
+		
+	what is object ?
+	  a = 5
+	   a is object which store 5 value 
+	
+class
+method 
+object 
+encapsulation 
+inheritence 
+polymorphism
+abstraction 
+
+2- python name comes from 
+		bbc chaneels 'complete montys python flying circus '
+		father of python -- guido van rosam 
+
+3- python is old programming language but no one used it earlier 
+			java release on 1995 python release on 1989 no one used at that 
+			when datasciece, ml, ai introduce -- python become boom 
+			
+4- using python user friendly code, less code compare to other programme 
+
+==== 6th
+Agenda -->
+---
+python programing
+backup classes 
+i will take q & a 
+
+1- python is very easy programming language 
+2- python also has some name is called variable 
+3- variable also called as object or identifier 
+		variable == object == identifer 
+	syntax for variable 
+				variable name == value 
+				a = 5 
+				a is variable 
+				5 = value 
+		technically value we called as datatypes 
+			
+		
+if you can able to work with me you can work with me 
+if you little slow 
+
+learner who joined first 
+
+1- what is variable 
+2- each variable must need to store in memory 
+3- so that value can called from memory 
+4- everytime you must need to define the value with variable 
+
+Rules to define python variable -->
+--
+1- case sensitive 
+		lower case & upper case 
+		
+2- variable does not start with digit or number 
+	variable ends with digit 
+	
+3- special characte cannot define as variable  except _ 
+
+4- keyword or reserved words are not declare as keyword 
+		['False',
+ 'None',
+ 'True',
+ 'and',
+ 'as',
+ 'assert',
+ 'async',
+ 'await',
+ 'break',
+ 'class',
+ 'continue',
+ 'def',
+ 'del',
+ 'elif',
+ 'else',
+ 'except',
+ 'finally',
+ 'for',
+ 'from',
+ 'global',
+ 'if',
+ 'import',
+ 'in',
+ 'is',
+ 'lambda',
+ 'nonlocal',
+ 'not',
+ 'or',
+ 'pass',
+ 'raise',
+ 'return',
+ 'try',
+ 'while',
+ 'with',
+ 'yield']
+ 
+ 35 keyword 
+ 
+ c programm has keywords
+ java keywords
+ python also has keywords 
+ 
+ If you know all the keywords -- python is complete 
+ 
+  35 keywords in python 
+	do not compare java with python 
+
+18yr expereiuence -- i know how to train, fresher, 5+, 10+, 20+, leader 
+	
+1- case sensitive 
+2- does not start with digit 
+3- special character not allowed 
+4- only _ is allowed 
+5- keyword or reserved word 
+
+== variable vs function 
+function ends with () 
+
+family = 45 ==> family is variable define the value 45 
+
+car() -- car function 
+cars(bmw, audi, marui) -- cars function with 3 argument or 3 parameter 
+
+car() without argument 
+cars(b, a, m) - cars with 3 argument 
+argument == parameter 
+
+
+gpt( ) -- trained with 4.5 billion paramter 
+
+
+90% wnated to continut
+
+if you know all te basic -
+
+if you are expert in this please calm do
+		
+if you need only advanced part 
+
+		give me the name of learner who want to need only advane
+			 i will share advanve
+			 later 
+
+what is the use of learning this ?
+what is the use of learning a , b, c, 
++, -, 
+
+these all are python concept which help to build code 
+code == project 
+project == resume
+resume == interview 
+intervi== call leter 
+call letter == job offer
+200% hike 
+
+90% we try use print() -- print the statement 
+
+python variable = value 
+value == dataype 
+	number == integer = int 
+	decimal == float 
+	
+int
+float
+bool
+complex 
+string 
+
+===== 7th
+---
+Agenda for today session ->
+---
+1- python datatype 
+2- print() how this very import prompt engineering 
+3- presentation 
+
+scaler -- just a single number or single digit
+vector -- collection of scaler 
+matrix -- collection of vector 
+tensor -- collection of matrix 
+
+ide -- integrated development environment 
+	vs code ide 
+
+agentic ai ide 
+	cursor ai 
+	antigravity
+	cline ide 
+	windsurf ide
+	kilo code ide 
+	black box agent ide 
+	claude code 
+	codex desktop agent 
+	copilot agent 
+	
+cuz of these agentic ai ide all develope code done by agents 
+
+using ide -- user can write the code, debug the code 
+	bug -- error | 	debug - fix the error 
+
+python interpreter -- run code line by line  
+python compilter -- entire code script run at once is called compiler 
+
+python is both ( interpreter vs compiler) as well 
+python is dynamic programming language 
+	static -- constant 
+	dynamic -- change according to the situation 
+	system auto undersatnt how many indention 
+	
+pvm ( python virutal machine) 
+python cannot used in term of android application 
+
+do not compare with java experience 
+every learning please do not connected to your company project 
+life time you cannot woring same project 
+
+			python can not perform in mobile application like android
+		
+bigdata, ds, gen ai, agentic ai, advance genai, agentic -- anaconda python 
+	
+latest version -- 3.15
+please do not install 3.14 & 3.15 
+best version 3.10 3.11, 3.12,3.13 also fine 
+
+int 
+float
+bool 
+complex  == 1 + 2j 
+			1 - real part 
+			2 - imaginary part 
+			j - squre root of -1 
+	complex datattype using scientific application 
+	
+ sun -- planent ( complex datatype ) 
+ 
+ string mostly used in nlp, llms you have
+ 
+ - string always define ' ' | " " for single line 
+ - if you have pdf document == ''' ''' 
+	
+	single line text -- '' | "" 
+	mulitline comment - ''' ''' 
+-----
+string indexing -->
+----
+forward indexing -- left to right  -- begins with 0 
+backward indexing 	-- right to left -- begins with -1 
+
+=== 8th 
+1- Instruction
+2- String Indexing 
+3- Print() 
+4- Last days of demo 
+5- Few instruction 
+6- Revise Backup Session
+7- About classnotes 
+8- Online team how to attend regular session 
+
+BFSI ( banking, finance, service, insurance) 
+
+team who ever joined 1st time please calm down
+listen the lecture, pelase previse few video everything would clearn
+today is last day of the demo there is no more demo from tomoor 
+
+if anybody joined 1st time or 2nd time team will allowed you can decide 
+i will share all the previuouse 
+
+data is divide 2 part 
+	structure data  == supervise learning == labeld data 
+			structure data can store == structure db = sql db = realtional db 
+			mysql 
+			oracle
+			sqlite 
+			
+			
+	unstructure data == unsupervised learning == unlabelled data 
+			image, audio, video, xml, pdf, json, bson text, 
+			
+			unstructure data store in unstructure db 
+				nosql db | non relation db 
+			mongo db 
+			casandra 
+			hbase
+			dynamo db 		
+				
+llm , genai, agentic ai 
+	data store in vector db 
+		pinecone 
+		qdrant
+		milvus
+		chromadb 
+	
+what is structure data ? 
+
+python datatypes 
+		int -- we are using them in ml 
+		text -- string -- using them ai, genai, agenti ai 
+		
+
+sql db vs no sql db vs vector db
+
+	student, fresher, experence, anyone if life time everyone must need to learn and expert atelat one tools
+		sql db -- any data 
+		no sql db -- any data 
+		vector db -- 
+
+vector -- collection of scaler 
+matrix --collection of vector 
+tensor -- collection of matrix 
+
+string indexing -->
+--
+	forward index -- left to right begins with 0 
+	backward index  -- right to left beging with -1 
+	
+'hello'
+s[0] -- forwrd 
+s[-1] -- backward 
+
+
+hello -- i want to extract only llo 
+	lets introduce to slicing 
+python slicing alwasy define : 
+
+in slicing alwasy remember 
+left index number : right index (n-1)
+---
+INDEXING RULE:
+---
+
+: -- print all elment (done) 
+
+2 : 10 -- print the value from 2nd index to n-1 index (10-1) index (done) 
+
+2 :     -- no right index ( print from 2nd index to last (done)
+
+: 10  --  no left index (print the value till (n-1) formula 9th index)  (done)
+
+: : 2 --> step slicing forward  (done) 
+
+: : -1 --> reverse slicing (done)
+
+0:20:5 --> every 5th index print value from 0, 5, 10, 15 (done) 
+
+
+stat work in the class when i datastrucutre you cannot even build single project 
+	these are dame easy very vyer 
+	
+if you are slow in typing then please focus the class only 
+practise later 
+offine team -- when then session you are doing code 
+	
+	lab -- online if any mentor not help you please answer me 
+i will share my number this week ends	
+
+	demo -- i will assing more assing in daily basis 
+		work or not work just stay the class 4- 5month 
+		
+	advance gen ai agenti -- 2mont 
+	
+if you have any question 
+chatgpt, gemin, meta
+---	
+ python error type -->
+----
+syntax error -- comes under compile time error 
+	when user write some code if any mistake happend from user 
+		then thos error comes 
+	user forgest, .
+====
+Youtube playlist : 
+https://www.youtube.com/playlist?list=PLVlQHNRLflP8Pt3wVlRWRaXZXi79cIwSq
+
+== ADMIN
+Online Admin Number's
++91 9133343369 Leena Mam Admin Only WhatsApp message 
++91 9154861173 Areef Admin Only WhatsApp message 
+For Offline Students 
+Admin Name: Bheem Sir 
+
+=== Paid Enrollment 
+without recording == 20,000 inr 
+with recording == 25,000 inr 
+
+============== Online Mentor Detail 
+Full Stack Data Science & AI Lab - 1
+Meeting Link: https://nareshit.zoom.us/j/86433658207
+Password: 112233
+====
+Full Stack Data Science & AI Lab - 2
+Meeting Link: https://nareshit.zoom.us/j/82068816627
+Password: 112233
+
+=====JOIN WHATSAPP COMMUNITY == 
+https://chat.whatsapp.com/DYf1dmaFMe8D45WsLKmrC7
+
+===  SOFTWARE INSTALLATION:
+👉 Anconda installation -- https://www.youtube.com/watch?v=PhIAQ8rE2xc
+
+📁 *VS CODE INSTALLATION VIDEO LEARNERS CAN FOUND IN IN GOOGLE DRIVE * 
+https://drive.google.com/drive/u/0/folders/1SSMdhATLDBxtuk0zRIt8mWfVZzGJ_LAm
+
+=== GOOGLE DRIVE:
+https://drive.google.com/drive/u/0/folders/1SSMdhATLDBxtuk0zRIt8mWfVZzGJ_LAm
+
+
+👉🏻 Backup Videos: 
+Day-1 https://youtu.be/Aeb65xbUtuQ
+Day-2 https://youtu.be/Z33v6T_asPA
+Day-3 https://youtu.be/tn5Yg9HBJBE
+Day-4 https://youtu.be/lZdSxB91eck
+Day-5 https://youtu.be/-0wQeKrqEAc
+Day-6 https://youtu.be/OYfZQrnHZlg
+Day-7 https://youtu.be/IDPOd7yWPnM
+Day-8 https://youtu.be/9IoevEkiWJ8
+
+=======================================================
+
+
+
+
