@@ -1,0 +1,249 @@
+Pandas has many functions, but these are the most commonly used ones for **data analysis**.
+
+**1. Import Pandas**
+
+```python
+import pandas as pd
+```
+
+**2. Read Data**
+
+```python
+pd.read_csv("file.csv")
+pd.read_excel("file.xlsx")
+pd.read_json("file.json")
+pd.read_sql(query, connection)
+pd.read_html(url)
+pd.read_parquet("file.parquet")
+```
+
+**3. View Data**
+
+```python
+df.head()
+df.tail()
+df.sample()
+df.shape
+df.columns
+df.index
+df.info()
+df.describe()
+df.dtypes
+```
+
+**4. Select Data**
+
+```python
+df["column"]
+df[["col1", "col2"]]
+df.loc[rows, columns]
+df.iloc[rows, columns]
+df.at[row, column]
+df.iat[row, column]
+```
+
+**5. Filter Data**
+
+```python
+df[df["age"] > 25]
+df[(df["age"] > 25) & (df["city"] == "Delhi")]
+df.query("age > 25")
+df.isin(["A", "B"])
+```
+
+**6. Sort Data**
+
+```python
+df.sort_values("column")
+df.sort_values(["col1", "col2"])
+df.sort_index()
+```
+
+**7. Missing Values**
+
+```python
+df.isnull()
+df.isna()
+df.notnull()
+df.dropna()
+df.fillna(0)
+df.interpolate()
+```
+
+**8. Duplicate Handling**
+
+```python
+df.duplicated()
+df.drop_duplicates()
+```
+
+**9. Rename and Modify Columns**
+
+```python
+df.rename(columns={"old": "new"})
+df.drop(columns=["col"])
+df.assign(new_col=df["a"] + df["b"])
+df.insert(0, "new_col", values)
+```
+
+**10. Data Type Conversion**
+
+```python
+df.astype({"col": "int"})
+pd.to_datetime(df["date"])
+pd.to_numeric(df["amount"])
+pd.to_timedelta(df["duration"])
+```
+
+**11. String Functions**
+
+```python
+df["name"].str.lower()
+df["name"].str.upper()
+df["name"].str.strip()
+df["name"].str.contains("abc")
+df["name"].str.replace("old", "new")
+df["name"].str.split()
+```
+
+**12. Aggregation**
+
+```python
+df["sales"].sum()
+df["sales"].mean()
+df["sales"].median()
+df["sales"].min()
+df["sales"].max()
+df["sales"].count()
+df["sales"].std()
+df["sales"].var()
+df["sales"].quantile(0.25)
+```
+
+**13. Group By**
+
+```python
+df.groupby("city")["sales"].sum()
+df.groupby("city").agg({
+    "sales": "sum",
+    "profit": "mean"
+})
+```
+
+**14. Value Counts**
+
+```python
+df["city"].value_counts()
+df["city"].nunique()
+df["city"].unique()
+```
+
+**15. Merge, Join, Concatenate**
+
+```python
+pd.concat([df1, df2])
+pd.merge(df1, df2, on="id")
+df1.join(df2)
+```
+
+**16. Pivot Tables**
+
+```python
+df.pivot_table(
+    values="sales",
+    index="city",
+    columns="category",
+    aggfunc="sum"
+)
+
+df.pivot(index="date", columns="city", values="sales")
+```
+
+**17. Apply Functions**
+
+```python
+df["col"].apply(function)
+df.apply(function, axis=1)
+df.map(function)
+```
+
+**18. Date and Time Analysis**
+
+```python
+df["date"].dt.year
+df["date"].dt.month
+df["date"].dt.day
+df["date"].dt.day_name()
+df["date"].dt.hour
+df.set_index("date")
+df.resample("M").sum()
+```
+
+**19. Window Functions**
+
+```python
+df["sales"].rolling(3).mean()
+df["sales"].expanding().sum()
+df["sales"].shift(1)
+df["sales"].diff()
+df["sales"].pct_change()
+```
+
+**20. Correlation and Covariance**
+
+```python
+df.corr()
+df.cov()
+```
+
+**21. Ranking**
+
+```python
+df["sales"].rank()
+df.nlargest(5, "sales")
+df.nsmallest(5, "sales")
+```
+
+**22. Binning**
+
+```python
+pd.cut(df["age"], bins=[0, 18, 30, 50, 100])
+pd.qcut(df["income"], q=4)
+```
+
+**23. Export Data**
+
+```python
+df.to_csv("output.csv")
+df.to_excel("output.xlsx")
+df.to_json("output.json")
+df.to_sql("table", connection)
+df.to_parquet("output.parquet")
+```
+
+**Most Important Pandas Functions for Beginners**
+
+```python
+pd.read_csv()
+df.head()
+df.info()
+df.describe()
+df.shape
+df.columns
+df.isnull().sum()
+df.dropna()
+df.fillna()
+df.value_counts()
+df.groupby()
+df.sort_values()
+df.loc[]
+df.iloc[]
+df.apply()
+pd.merge()
+pd.concat()
+df.pivot_table()
+df.corr()
+df.to_csv()
+```
+
+These are enough for most day-to-day data analysis tasks in Pandas.
